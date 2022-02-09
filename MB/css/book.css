@@ -1,0 +1,85 @@
+.movie-title{
+    font-family: 'Roboto Slab', serif;
+    font-size:22px;
+    margin-left:50px;
+    color:#444;
+    margin-right:50px;
+}
+
+.container{
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:5cm;
+    margin-right:5cm;
+    border:3px solid #CCCAB9;
+    background-color:darkslategray  ;
+    width:610px;
+    text-align:left;
+}
+html,body
+{
+    height:100%;
+    
+}
+
+.cinema-list{
+    margin-right:50px;
+    margin-left:50px;
+    padding:0px;
+    width:510px;
+    margin-bottom:10px;
+}
+
+.display-cinema-name{
+    margin-left:15px;
+    font-size:18px;color:darkslategray;
+    padding:0px;
+    width:504px;
+   
+}
+
+.display-cinema-address{
+    font-size:12px;
+    color:black;
+    margin-left: 11px;
+    padding-left:20px;
+    
+}
+
+/* ul li .display-cinema-name a:hover{
+    background-color:darkslategray;
+    margin-right:20px;
+    color:goldenrod;
+} */
+.hov a:hover{
+    background-color:darkslategray;
+    margin-right:20px;
+    color:goldenrod;
+}
+
+
+
+.title{
+    font-size:24px;
+    background-color:cadetblue;
+    color:#FFF;
+    
+    margin-top:10px;
+    width:500px;
+    padding-left:10px;
+    font-weight:bold;
+    position:relative;
+}
+.cinema{
+    font-size:18px;
+    background-color:black;
+    color:white;
+    border:1px solid black;
+    margin-top:0px;
+    width:500px;
+    padding-right:10px;
+    float:right;
+    font-weight:bold;
+    position:relative;
+}
+
